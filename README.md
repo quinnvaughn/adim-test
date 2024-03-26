@@ -32,7 +32,7 @@ access keys will be provided along with this prompt.
 
 ## How to submit your response
 
-Upload your response to a private Github repository and give access to [Alexei](https://github.com/amihalopoulos) and [Jared](https://github.com/szichedelic). We should be able to pull your repo and run it locally, just like the instructions above. If running your code has any other dependencies (e.g. API keys), please provide them together with your submission. You can also deploy your app on [Vercel](vercel.com/) (they offer a free plan).
+Upload your response to a private Github repository and give access to [Alexei](https://github.com/amihalopoulos), [Sam](https://github.com/sammccord), and [Aaron](https://github.com/aaron-adimverse). We should be able to pull your repo and run it locally, just like the instructions above. If running your code has any other dependencies (e.g. API keys), please provide them together with your submission. You can also deploy your app on [Vercel](vercel.com/) (they offer a free plan).
 
 ======
 
