@@ -1,6 +1,5 @@
 import { match } from "ts-pattern";
 import { useGifs } from "../../hooks";
-import { Gif } from "../../types";
 import { GifCard } from "../gif-card";
 import { container } from "./styles.css";
 

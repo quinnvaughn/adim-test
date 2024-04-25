@@ -1,4 +1,3 @@
-import { useState } from "react";
 import { useGifs } from "../../hooks";
 import { Gif } from "../../types";
 import { button, image } from "./styles.css";

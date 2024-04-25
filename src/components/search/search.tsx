@@ -8,6 +8,9 @@ export function Search() {
 		setLoading: s.setLoading,
 		setGiphyData: s.setGiphyData,
 	}));
+	// normally would be in a hook
+	// would also be doing this via react-hook-form
+	// but this is so simple and a take home exercise.
 	async function searchGiphy(e: FormEvent) {
 		e.preventDefault();
 		setLoading(true);
